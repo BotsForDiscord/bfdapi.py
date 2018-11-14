@@ -3,19 +3,15 @@
 """
 Bots For Discord API Wrapper
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 A Python wrapper for the Bots For Discord API
-
-:copyright: (c) 2018 JackTEK
-:license: GNU, see LICENSE for more details.
 
 """
 
-__title__ = 'bfd'
+__title__ = 'bfd.py'
 __author__ = 'JackTEK'
-__license__ = 'GNU'
-__copyright__ = 'Copyright 2018 JackTEK'
-__version__ = '2.0.0'
+__license__ = 'AGLP-3.0'
+__copyright__ = 'Copyright 2018 Bots for Discord'
+__version__ = '1.0.0'
 
 from collections import namedtuple
 import requests
