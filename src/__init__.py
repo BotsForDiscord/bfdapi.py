@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Mila API Wrapper
-~~~~~~~~~~~~~~~~~~~
+Bots For Discord API Wrapper
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Python wrapper for the Bots For Discord API
 
