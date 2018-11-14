@@ -21,7 +21,7 @@ import requests
 
 VersionInfo = namedtuple('VersionInfo', 'major minor micro releaselevel serial')
 
-version_info = VersionInfo(major=2, minor=0, micro=0, releaselevel='stable', serial=0)
+version_info = VersionInfo(major=1, minor=0, micro=0, releaselevel='stable', serial=0)
 
 class LoginError(Exception):
     pass
