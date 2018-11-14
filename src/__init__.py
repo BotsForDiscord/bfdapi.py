@@ -9,7 +9,7 @@ A Python wrapper for the Bots For Discord API
 
 __title__ = 'bfd.py'
 __author__ = 'JackTEK'
-__license__ = 'AGLP-3.0'
+__license__ = 'AGPL-3.0'
 __copyright__ = 'Copyright 2018 Bots for Discord'
 __version__ = '1.0.0'
 
