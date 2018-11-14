@@ -4,22 +4,21 @@
 Mila API Wrapper
 ~~~~~~~~~~~~~~~~~~~
 
-A Python wrapper for the Mila Bot API
+A Python wrapper for the Bots For Discord API
 
 :copyright: (c) 2018 JackTEK
-:license: MIT, see LICENSE for more details.
+:license: GNU, see LICENSE for more details.
 
 """
 
 __title__ = 'bfd'
 __author__ = 'JackTEK'
-__license__ = 'MIT'
+__license__ = 'GNU'
 __copyright__ = 'Copyright 2018 JackTEK'
 __version__ = '2.0.0'
 
 from collections import namedtuple
 import requests
-from urllib.parse import quote as _uriquote
 from datetime import datetime
 import asyncio
 import requests
